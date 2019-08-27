@@ -45,7 +45,7 @@ Step 6: Click in Genuine Image Image classifier and upload 10+ images to train t
 - The more examples you provide the more the confidence increases
 - Images must be uploaded to train as a zip file(for this example they are dogs stored in train folder called GenuineImages.zip)
 - Upload by drag/drop or upload to project/add from project/add to model options
-![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic9.png)
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic10.png)
 
 
 Additional Resources:
