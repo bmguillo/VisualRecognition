@@ -30,8 +30,10 @@ Step 4: Create a project for your custom model and add Watson Visual Recognition
 - Choose existing, choose resource group and service we provisioned prior
 
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic5.png)
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic6.png)
 
-Step 5:
+
+Step 5: 
 
 
 
