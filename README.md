@@ -22,12 +22,16 @@ Step 3: Create a custom Visual Recognition classifier
 
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic4.png)
 
-Step 4: Create a project for your custom model 
+Step 4: Create a project for your custom model and add Watson Visual Recognition service
 - Provide a name, description
 - This project automatically integrates Cloud object storage for storage of the images, provisions automatically
 - Uncheck restrict collaborators if no confidential data, not using SAML for authentication & only IBM Cloud account users accessing the project
+- Click add to add Visual recognition service
+- Choose existing, choose resource group and service we provisioned prior
 
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic5.png)
+
+Step 5:
 
 
 
