@@ -27,6 +27,7 @@ Step 4: Create a project for your custom model
 - This project automatically integrates Cloud object storage for storage of the images, provisions automatically
 - Uncheck restrict collaborators if no confidential data, not using SAML for authentication & only IBM Cloud account users accessing the project
 
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic5.png)
 
 
 
