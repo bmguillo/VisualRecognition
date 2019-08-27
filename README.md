@@ -7,17 +7,19 @@ Step 1: Provision Instance of Visual Recognition
 - Lite instances are not suitable for production
 
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic1.png)
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic2.png)
 
 Step 2: Create a Custom Model
 - Click on Manage to reach main landing page for Visual Recognition where credentials are found
 
-![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic2.png)
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic3.png)
+
 
 
 Step 3: Create a custom Visual Recognition classifier
 - We need a custom classifier because the images we are training on go beyond the built-in image classifiers since they go beyond objects, faces and food
 
-![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic3.png)
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic4.png)
 
 
 
