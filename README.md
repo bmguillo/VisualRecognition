@@ -61,7 +61,10 @@ Step 8: Train the Visual Recognition Model
 
 Step 9: View & Test the model
 - Click "here" in training successful message to view and test model
+- click on test
+- Drag and drop test files
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic13.png)
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic14.png)
 
 
 Additional Resources:
