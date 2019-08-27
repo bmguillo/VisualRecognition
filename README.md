@@ -53,6 +53,13 @@ Step 7: Use the built-in negative class to train the Watson Visual Recognition s
 - Upload by upload to project/add from project/add to model/drag & drop zip file options
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic11.png)
 
+Step 8: Train the Visual Recognition Model
+-When images are uploaded to both the negative and custom class you created(positive) status should read ready to train
+-Click train model
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic12.png)
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic13.png)
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic14.png)
+
 
 Additional Resources:
 - [Getting Started Documentation](https://cloud.ibm.com/services/watson-vision-combined/crn%3Av1%3Abluemix%3Apublic%3Awatson-vision-combined%3Aus-south%3Aa%2F7d079bae5542b868586749125bad3e5b%3A719b0d28-22c9-489c-ae7b-2bfab84a857b%3A%3A?paneId=gettingStarted&new=true)
