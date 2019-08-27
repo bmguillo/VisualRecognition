@@ -2,8 +2,8 @@
 
 
 Step 1: Provision Instance of Visual Recognition
-- In order to have seperate instances for QA, Staging, Dev & Prod
-- Provision Standard instances
+- Choose region and resource group
+- In order to have seperate instances for QA, Staging, Dev & Prod, provision Standard instances
 - Lite instances are not suitable for production
 
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic1.png)
