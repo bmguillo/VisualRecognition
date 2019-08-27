@@ -48,6 +48,10 @@ Step 6: Click in Genuine Image Image classifier and upload 10+ images to train t
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic10.png)
 
 Step 7: Use the built-in negative class to train the Watson Visual Recognition service on negative images
+- The more examples you provide the more the confidence increases
+- Images must be uploaded to train as a zip file(for this example they are images not dogs stored in train folder called NegativeImages.zip)
+- Upload by upload to project/add from project/add to model/drag & drop zip file options
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic11.png)
 
 
 Additional Resources:
