@@ -1,4 +1,4 @@
-# Provision Watson Visual Recognition Service & Create a classifier for training
+# Provision Watson Visual Recognition Service & Create a customer image classifier for training
 
 
 Step 1: Provision Instance of Visual Recognition
