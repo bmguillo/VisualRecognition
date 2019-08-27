@@ -18,10 +18,14 @@ Step 2: Create a Custom Model
 
 Step 3: Create a custom Visual Recognition classifier
 - We need a custom classifier because the images we are training on go beyond the built-in image classifiers since they go beyond objects, faces and food
+- Click on classify images/create model tile
 
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic4.png)
 
-
+Step 4: Create a project for your custom model 
+- Provide a name, description
+- This project automatically integrates Cloud object storage for storage of the images, provisions automatically
+- Uncheck restrict collaborators if no confidential data, not using SAML for authentication & only IBM Cloud account users accessing the project
 
 
 
