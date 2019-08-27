@@ -6,6 +6,8 @@ Step 1: Provision Instance of Visual Recognition
 - Provision Standard instances
 - Lite instances are not suitable for production
 
+![test](https://github.com/bmguillo/VisualRecognition/img/pic1.png)
+
 Step 2: Create a Custom Model
 - Click on Manage to reach main landing page for Visual Recognition where credentials are found
 
