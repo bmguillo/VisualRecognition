@@ -36,7 +36,10 @@ Step 4: Create a project for your custom model and add Watson Visual Recognition
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic7.png)
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic8.png)
 
-Step 5: 
+Step 5: Name your Visual Recognition Model & Create a class(image classifier) to train positive images
+- VR Model is the name of the Visual Recognition model in this example
+- Genuine Images is the name of the class in this example
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic9.png)
 
 
 
