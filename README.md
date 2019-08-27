@@ -1,4 +1,4 @@
-# Provision Watson Visual Recognition Service & create a classifier for training
+# Provision Watson Visual Recognition Service & Create a classifier for training
 
 
 Step 1: Provision Instance of Visual Recognition
@@ -6,7 +6,11 @@ Step 1: Provision Instance of Visual Recognition
 - Provision Standard instances
 - Lite instances are not suitable for production
 
-Step 2: 
+Step 2: Create a Custom Model
+- Click on Manage to reach main landing page for Visual Recognition where credentials are found
+
+Step 3: Create a custom Visual Recognition classifier
+- We need a custom classifier because the images we are training on go beyond the built-in image classifiers since they go beyond objects, faces and food
 
 
 
