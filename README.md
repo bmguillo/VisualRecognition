@@ -27,11 +27,14 @@ Step 4: Create a project for your custom model and add Watson Visual Recognition
 - This project automatically integrates Cloud object storage for storage of the images, provisions automatically
 - Uncheck restrict collaborators if no confidential data, not using SAML for authentication & only IBM Cloud account users accessing the project
 - Click add to add Visual recognition service
-- Choose existing, choose resource group and service we provisioned prior
+- Choose existing, choose resource group and service we provisioned prior then click select
+- Go back and refresh page to see Watson Visual Recognition populated
+- Click create
 
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic5.png)
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic6.png)
-
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic7.png)
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic8.png)
 
 Step 5: 
 
