@@ -41,11 +41,13 @@ Step 5: Name your Visual Recognition Model & Create a class(image classifier) to
 - Genuine Image is the name of the class in this example
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic9.png)
 
-Step 6: Click in Genuine Image Image classifier and upload 10+ images to train the VR Model
+Step 6: Click in Genuine Image Image classifier and upload 10+ images to train the VR Model on positive images
 - The more examples you provide the more the confidence increases
 - Images must be uploaded to train as a zip file(for this example they are dogs stored in train folder called GenuineImages.zip)
 - Upload by upload to project/add from project/add to model/drag & drop zip file options
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic10.png)
+
+Step 7: Use the built-in negative class to train the Watson Visual Recognition service on negative images
 
 
 Additional Resources:
