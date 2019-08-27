@@ -43,6 +43,11 @@ Step 5:
 Additional Resources:
 - [Getting Started Documentation](https://cloud.ibm.com/services/watson-vision-combined/crn%3Av1%3Abluemix%3Apublic%3Awatson-vision-combined%3Aus-south%3Aa%2F7d079bae5542b868586749125bad3e5b%3A719b0d28-22c9-489c-ae7b-2bfab84a857b%3A%3A?paneId=gettingStarted&new=true)
 - [Visual Recognition API documentation](https://cloud.ibm.com/apidocs/visual-recognition)
+- [Visual recognition CLI tools](https://developer.ibm.com/dwblog/2017/command-line-tools-watson-visual-recognition/)
+- [Sharpening Visual Recognition Results using Tile Localization](https://www.ibm.com/cloud/blog/sharpen-watson-visual-recognition-results)
+- [Redbook on Visual Recognition](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248393.html)
+- Guidelines for training custom classifiers](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-customizing)
+- [Best practices for training custom classifiers](https://www.ibm.com/cloud/blog/watson-visual-recognition-training-best-practices
 
 
 
