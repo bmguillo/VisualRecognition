@@ -46,8 +46,8 @@ Additional Resources:
 - [Visual recognition CLI tools](https://developer.ibm.com/dwblog/2017/command-line-tools-watson-visual-recognition/)
 - [Sharpening Visual Recognition Results using Tile Localization](https://www.ibm.com/cloud/blog/sharpen-watson-visual-recognition-results)
 - [Redbook on Visual Recognition](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248393.html)
-- Guidelines for training custom classifiers](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-customizing)
-- [Best practices for training custom classifiers](https://www.ibm.com/cloud/blog/watson-visual-recognition-training-best-practices
+- [Guidelines for training custom classifiers](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-customizing)
+- [Best practices for training custom classifiers](https://www.ibm.com/cloud/blog/watson-visual-recognition-training-best-practices)
 
 
 
