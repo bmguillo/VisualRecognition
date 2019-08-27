@@ -43,7 +43,7 @@ Step 5: Name your Visual Recognition Model & Create a class(image classifier) to
 
 Step 6: Click in Genuine Image Image classifier and upload 10+ images to train the VR Model
 - The more examples you provide the more the confidence increases
-- upload examples to train (for this example they are dogs stored in train folder)
+- Images must be uploaded to train as a zip file(for this example they are dogs stored in train folder called GenuineImages.zip)
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic9.png)
 
 
