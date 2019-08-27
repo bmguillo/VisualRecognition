@@ -54,11 +54,14 @@ Step 7: Use the built-in negative class to train the Watson Visual Recognition s
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic11.png)
 
 Step 8: Train the Visual Recognition Model
--When images are uploaded to both the negative and custom class you created(positive) status should read ready to train
--Click train model
+- When images are uploaded to both the negative and custom class you created(positive) status should read ready to train
+- Click train model
+![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic11.png)
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic12.png)
+
+Step 9: View & Test the model
+- Click "here" in training successful message to view and test model
 ![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic13.png)
-![test](https://github.com/bmguillo/VisualRecognition/blob/master/img/pic14.png)
 
 
 Additional Resources:
